@@ -1,3 +1,4 @@
+/* @pjs preload="jake_by_chibi_nekokeenan-d5dfedd.gif"; */
 PImage bee;
 void setup() {
   
